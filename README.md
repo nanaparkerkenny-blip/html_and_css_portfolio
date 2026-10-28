@@ -12,3 +12,4 @@ This is my first basic web-development portfolio, built using HTML and CSS, I wi
 ##Where to Find Me
 
 GitHub Profile:
+https://github.com/nanaparkerkenny-blip/html_and_css_portfolio.git
